@@ -1,0 +1,230 @@
+ body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  
+}
+
+#starsLink{
+
+  position: absolute;
+  right: 180px;
+  font-size: 30px;
+  top: 430px;
+  border-radius: 5000px;
+  text-align: center; 
+  padding: 10px;
+  opacity: 70%;
+  width: 200px;
+  background-color:rgb(168, 238, 122);
+}
+
+#introText{
+
+  position: absolute;
+  top: 400px;
+  right: 490px;
+  margin-left: 500px;
+  background-color:white;
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: lightblue;
+  opacity: 80%;
+}
+
+#endText{
+
+  position: absolute;
+  opacity: 80%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  background-color: lightblue;
+  margin-left: 300px;
+  bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#starsLink:hover{
+
+  opacity: 90%
+}
+
+#galaxyLink a{
+
+  position: absolute;
+  font-size: 30px;
+  top: 300px;
+  border-radius: 5000px;
+  text-align: center;
+  right: 300px;
+  padding: 10px;
+  opacity: 70%;
+  width: 200px;
+  background-color:rgb(251, 158, 247);
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+
+}
+
+
+#galaxyText{
+
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  color: white;
+  align-content: center;
+  font-size: 50px;
+ 
+
+}
+
+#starsText{
+
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  color: white;
+  align-content: center;
+  font-size: 50px;
+ 
+
+}
+
+#solarsystemText{
+
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  color: white;
+  align-content: center;
+  font-size: 50px;
+ 
+
+}
+
+#blackholeText{
+
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  color: white;
+  align-content: center;
+  font-size: 50px;
+ 
+
+}
+
+#historyText{
+
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  color: white;
+  align-content: center;
+  font-size: 50px;
+ 
+
+}
+
+#codingText{
+
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  color: white;
+  align-content: center;
+  font-size: 50px;
+ 
+
+}
+
+
+
+#galaxyLink:hover a{
+
+  opacity: 90%;
+}
+
+#blackholeLink{
+
+  position: absolute;
+  font-size: 30px;
+  top: 460px;
+  border-radius: 5000px;
+  text-align: center;
+  left: 180px;
+  padding: 10px;
+  opacity: 70%;
+  width: 200px;
+  background-color:rgb(168, 238, 122);
+}
+
+#blackholeLink:hover{
+
+  opacity: 90%;
+}
+
+#historyLink{
+
+  position: absolute;
+  font-size: 30px;
+  top: 560px;
+  border-radius: 5000px;
+  text-align: center;
+  right: 95px;
+  padding: 10px;
+  opacity: 70%;
+  width: 200px;
+  background-color:rgb(243, 190, 92);
+}
+
+#historyLink:hover{
+
+  opacity:90%;
+}
+
+
+
+#solarsystemLink{
+
+  position: absolute;
+  font-size: 30px;
+  top: 300px;
+  border-radius: 5000px;
+  text-align: center;
+  left: 300px;
+  padding: 10px;
+  opacity: 70%;
+  width: 200px;
+  background-color:rgb(251, 158, 247);
+}
+
+#solarsystemLink:hover{
+
+opacity: 90%;
+}
+
+#codingLink{
+
+  position: absolute;
+  font-size: 30px;
+  top: 610px;
+  border-radius: 5000px;
+  text-align: center;
+  left: 90px;
+  padding: 10px;
+  opacity: 70%;
+  width: 200px;
+  background-color:rgb(243, 190, 92);
+}
+
+#codingLink:hover{
+
+  opacity:90%;
+}
+

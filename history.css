@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    border: 50px solid;
+    border-color: rgb(54, 54, 87);
+    
+  }
+  
+  .heading{
+
+    position: relative;
+    background-color:rgb(54, 54, 87);
+    color: rgb(149, 232, 231);
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  .buttonClass button{ 
+
+    position: relative;
+    margin-left: 800px;
+    font-size: 30px;
+    margin-bottom: 50px;
+
+  }
+  .intro{
+
+    position: relative;
+    top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -200px;
+  }
+
+  .intro p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .allInfo{
+
+    position: relative;
+    top: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 300px;
+  }
+
+  .allInfo p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .allInfo h3{
+
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+
+  }

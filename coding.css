@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    border: 50px solid;
+    border-color: rgb(54, 54, 87);
+    
+  }
+
+  .heading{
+
+    position: relative;
+    font-size: 25px;
+    color: rgb(149, 232, 231);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    background-color:rgb(54, 54, 87);
+  }
+
+  .intro{
+
+    position: relative;
+    top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -100px;
+  }
+
+  .intro p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+
+  .bodyPara{
+
+    position: relative;
+    top: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 400px;
+  }
+
+  .bodyPara h3{
+
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+
+  .bodyPara p{
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+
+  .buttonClass button{ 
+
+    position: relative;
+    margin-left: 800px;
+    font-size: 30px;
+    margin-bottom: 50px;
+
+  }

@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    border: 50px solid;
+    border-color: rgb(54, 54, 87);
+
+  }
+
+  .blackholeHeading{
+
+    position: relative;
+    font-size: 25px;
+    color: rgb(149, 232, 231);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    background-color:rgb(54, 54, 87);
+
+  }
+
+  .blackholeIntro{
+
+    position: relative;
+    top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -100px;
+  }
+
+  .blackholeIntro p{
+    
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  }
+
+  .blackhole h3{
+
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+
+  .blackhole{
+    position: relative;
+    top: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  .blackhole p{
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+
+  }
+
+  .allInfo{
+
+    position: relative;
+    top: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  .allInfo p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+
+  .buttonClass button{ 
+
+    position: relative;
+    margin-left: 800px;
+    font-size: 30px;
+    margin-bottom: 50px;
+
+  }
+  .allInfo h3{
+
+   font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+
+  .structure{
+
+    position: relative;
+    margin-top: 100px;
+  }
+
+  .facts{
+
+    position: relative;
+    margin-bottom: 400px;
+    margin-top: 100px;
+  }
+
+  .blackholesObservation{
+
+    position: relative;
+    margin-top: 100px;
+  }
+

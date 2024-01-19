@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    border: 50px solid;
+    border-color: rgb(54, 54, 87);
+    
+  }
+  
+  .galaxyHeading{
+  
+    position: relative;
+    font-size: 25px;
+    color: rgb(149, 232, 231);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    background-color:rgb(54, 54, 87);
+    
+  }
+  
+  .buttonClass button{ 
+
+    position: relative;
+    margin-left: 800px;
+    font-size: 30px;
+    margin-bottom: 50px;
+
+  }
+  
+  .galaxyLink{
+  
+    position: relative;
+  }
+  
+  .galaxyIntro{
+  
+    position: relative;
+    top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -100px;
+    
+  }
+  
+  .galaxyIntro p{
+    
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  }
+  .galaxyTypes{
+  
+    position: relative;
+    top: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .galaxyTypes img{
+  
+    position: relative;
+    
+  }
+  
+  .galaxyTypes p{
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  
+  
+  .galaxies{
+  
+    position: relative;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 290px;
+  
+  }
+  
+  .galaxies p{
+  
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .spiralImg1 {
+  
+    position: relative;
+    right: 1000px;
+  }
+  
+  .galaxyTypes h3{
+  
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+  
+  .galaxies h3{
+  
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+  
+  .galaxyIntro h3{
+  
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+  
+  .spiralImg2{
+  
+    position: relative;
+    bottom: 1080px;
+  }
+  
+  .spiralImg3{
+  
+    position:relative;
+    bottom: 900px;
+    left: 100px;
+  }
+  
+  .elliptical{
+  
+    position:relative;
+    margin-top: -1000px;
+  }
+
+  .elliptical a{
+
+    position: relative;
+    bottom: 10px;
+  }
+  
+  .galaxiesRest{
+
+    position: relative;
+    margin-top: 400px;
+  }
+  .lenticular{
+  
+    position: relative;
+    margin-top: 100px;
+  }
+  
+  .irregular{
+  
+    position: relative;
+    margin-top: 100px;
+  }
+  
+  .peculiar{
+  
+    position: relative;
+    margin-top: 100px;
+  }
+  

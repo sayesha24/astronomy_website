@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    border: 50px solid;
+    border-color: rgb(14, 35, 82);
+    
+}
+.starHeading{
+  
+    position: relative;
+    font-size: 25px;
+    color: rgb(149, 232, 231);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    background-color:rgb(54, 54, 87);
+    
+  }
+
+  .starIntro{
+
+    position: relative;
+    padding-left: 50px;
+    padding-right: 50px;
+   
+    
+  }
+  
+  .starIntro p{
+    
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  }
+
+  .starFormation{
+
+    position: relative;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .starFormation p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .starFormation h3{
+
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+  }
+
+  .starCycle{
+
+    position: relative;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  .starCycle p{
+
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .starCycle h3{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+    
+  }
+
+  .starCycle table{
+
+    width: fit-content;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 100px;
+    padding-bottom: 10px;
+    color:black;
+
+  }
+
+  .starCycle table a{
+
+    position: relative;
+    
+
+  }
+
+  .buttonClass button{ 
+
+    position: relative;
+    margin-left: 800px;
+    font-size: 30px;
+    margin-bottom: 50px;
+
+  }
+
+  .starImg1{
+
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  
